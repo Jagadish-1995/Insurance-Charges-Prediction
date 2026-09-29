@@ -24,3 +24,5 @@ ENV/
 
 # Keep model files tracked for the Streamlit app
 # Do not ignore *.pkl
+
+insurance.csv
