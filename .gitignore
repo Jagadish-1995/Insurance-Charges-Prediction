@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+.DS_Store
+
+*.log
+
+# Local secrets
+.env
+.env.*
+
+# Generated notebook/runtime files
+*.tmp
+
+# Keep model files tracked for the Streamlit app
+# Do not ignore *.pkl
